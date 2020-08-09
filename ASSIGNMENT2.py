@@ -119,4 +119,4 @@ while True:
     elif num == 6:
         preorder(root)
     else:
-        break
+        brea
