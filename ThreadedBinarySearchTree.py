@@ -52,7 +52,7 @@ root=hNode=None
 hNode=Node("999")
 
 
-print("Threaded Binary Tree")
+print("Threaded Binary Search Tree")
 while True:
     print("1 to Insert")
     print("2 for Inorder Traversal")
